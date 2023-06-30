@@ -1,5 +1,5 @@
 # Diabetes Indicators Analysis
-The goal of this project was to explore research questions regarding diabetes indicators using Python to analyze survey data.
+The goal of this project was to explore and answer research questions through insights regarding diabetes indicators using Python to analyze survey data.
   
 **The following research questions were explored:**
 
